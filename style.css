@@ -11,7 +11,7 @@ body{
 }
 
 #header{background: #ebebeb; 
-        width: 86%;
+        width: 87%;
         color: #777;
         padding: 30px;
         margin: 10px;
@@ -25,7 +25,7 @@ body{
         position: fixed;
 }
 #div{background: #ebebeb;
-    width: 86%;
+    width: 87%;
     height: 20px;
     padding: 30px;
     border: 10px;
@@ -39,7 +39,7 @@ body{
     width: 31%;
     position: absolute;
     top: 250px;
-    right: 102px;
+    right: 132px;
     height: 130px;
     z-index: 2;
     float: right;}
@@ -52,14 +52,14 @@ body{
     z-index: 1;
     height: 210px;
     padding: 10px;
-    width: 60%}
+    width: 76%}
 
 article{background: #777;
     color: #ebebeb;
     z-index: 2;
     padding: 10px;
     position: relative;
-    width: 55%;
+    width: 69%;
     top: 250px;
     left: 25px;
     height: 160px;
@@ -73,7 +73,7 @@ article{background: #777;
     font-weight: bold;
     position: absolute;
     z-index: 3;
-    top: 335px;
+    top: 340px;
     left: 65px;
     width: 38%}
 
@@ -82,7 +82,7 @@ article{background: #777;
     position: absolute;
     left: 65px;
     height: 30px;
-    bottom: 115px;
+    bottom: 260px;
     z-index: 4;
     width: 38%;
     padding: 10px;
@@ -92,7 +92,7 @@ article{background: #777;
 #footer {background: #ebebeb;
         width: 91%;
         position: absolute;
-        bottom: 0;
+        bottom: 100px;
         left: 18px;
         height: 60px;
         text-align: center;
