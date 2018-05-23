@@ -1,4 +1,6 @@
-
+.element {
+    all: none;
+  }
 body{
     background: #777;
     font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
